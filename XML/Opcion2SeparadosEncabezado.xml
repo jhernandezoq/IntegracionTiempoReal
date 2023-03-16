@@ -8,17 +8,17 @@
   <Sector></Sector>
   <OficinaVentaSAP>1006</OficinaVentaSAP>
   <GrupoVendedorSAP>123</GrupoVendedorSAP>
-  <CodigoClienteSAP>1000031852</CodigoClienteSAP>
-  <NombreCliente>EXPOCAPRICHO SAS</NombreCliente>
-  <Direccion1>CL 26 SUR 43 A 41</Direccion1>
-  <Poblacion>MEDELLIN</Poblacion>
-  <RegionSAP>05</RegionSAP>
-  <Telefono1>3173834143</Telefono1>
-  <Destinatario>1000031852</Destinatario>
-  <NumeroSAP>AAAF000000178162</NumeroSAP>
-  <Fecha>20230307</Fecha>
-  <FechaEntrega>20230307</FechaEntrega>
-  <FechaPrecio>20230307</FechaPrecio>
+  <CodigoClienteSAP>7000000000</CodigoClienteSAP>
+  <NombreCliente>CONTADO</NombreCliente>
+  <Direccion1>CL 32 48 45</Direccion1>
+  <Poblacion>ANTIOQUIA</Poblacion>
+  <RegionSAP>MEDELLÍN</RegionSAP>
+  <Telefono1>44444624</Telefono1>
+  <Destinatario>7000000000</Destinatario>
+  <NumeroSAP>AAAF000000178203</NumeroSAP>
+  <Fecha>20230315</Fecha>
+  <FechaEntrega>20230315</FechaEntrega>
+  <FechaPrecio>20230315</FechaPrecio>
   <Moneda>0</Moneda>
   <TipoCambio>0</TipoCambio>
   <CondicionPago>0</CondicionPago>
